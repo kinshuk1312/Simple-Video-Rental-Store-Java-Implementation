@@ -5,7 +5,8 @@ User can
 1. Login as a customer
 2. Login as a user
 3. Check video Availibility
-4. Rent Video
-5. Return Video
-6. Add video as admin
-7. View video inventory as admin
+4. Rent video
+5. Return video
+6. Give video rating 
+7. Add video as admin
+8. View video inventory as admin
